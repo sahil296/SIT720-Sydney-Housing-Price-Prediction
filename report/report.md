@@ -51,8 +51,8 @@ The holdout set contains only 10 properties and includes an unusual high-value M
 Clone the repository:
 
 ```bash
-git clone https://github.com/sahil296/sit720-housing-6b96f279.git
-cd sit720-housing-6b96f279
+git clone https://github.com/sahil296/SIT720-Sydney-Housing-Price-Prediction.git
+cd SIT720-Sydney-Housing-Price-Prediction
 ```
 
 Create and activate a virtual environment:
