@@ -18,7 +18,6 @@ The project covers data preparation, exploratory data analysis, feature engineer
 - report/llm_human_comparison.csv – ML, LLM and human comparison
 - report/figures/ – Figures generated during the analysis
 - report/screenshots/ – Screenshots of the Streamlit application
-- tests/test_app_ui.py – Streamlit UI tests
 - requirements.txt – Python dependencies
 
 ## Analysis
@@ -97,14 +96,6 @@ The application allows the user to select a suburb and property type and enter i
 The application also displays supporting information including suburb and property-type medians, charts, model performance and known limitations. CSV files can also be uploaded for batch predictions.
 
 The predicted value is provided as a model estimate and should not be treated as a professional property valuation.
-
-## Tests
-
-The Streamlit UI tests can be run from the repository root:
-
-```bash
-python3 -m unittest tests/test_app_ui.py -v
-```
 
 ## Data and Sources
 

@@ -18,7 +18,6 @@ The project predicts residential sale prices in **Blacktown, Parramatta and Mosm
 | `report/llm_human_comparison.csv` | Holdout estimates from Gradient Boosting, ChatGPT and Human. |
 | `report/final_metrics.json` | Model performance figures shown in the app (created by the notebook). |
 | `report/figures/`, `report/screenshots/` | Notebook figures and app screenshots. |
-| `tests/test_app_ui.py` | Streamlit UI tests (`python -m unittest tests/test_app_ui.py -v`). |
 
 ## Models
 
