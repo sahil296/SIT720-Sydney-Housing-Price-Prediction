@@ -1,0 +1,11 @@
+property_id,suburb,address,sale_date,property_type,bedrooms,bathrooms,car_spaces,land_size_sqm,building_size_sqm,distance_to_nearest_train_station_km,distance_to_nearest_bus_route_m,actual_price,ml_prediction,llm_estimate,human_estimate
+SYD-008,Blacktown,24/45 Bungarribee Road,2026-08,Townhouse,3,2,1.0,,91.0,1.407,104.2,750000,774000.0,780000,820000
+SYD-015,Blacktown,59 Walters Road,2026-08,House,3,1,1.0,562.8,109.0,1.351,28.4,900000,877000.0,980000,1050000
+SYD-029,Blacktown,17 Carinya Street,2026-09,House,3,1,1.0,1182.4,116.0,0.526,184.0,1600000,1261000.0,1350000,1450000
+SYD-045,Parramatta,11/22-24 Tennyson Street,2026-08,Unit,2,2,1.0,,87.0,0.682,49.7,650000,670000.0,720000,700000
+SYD-053,Parramatta,5/13 Queens Avenue,2026-08,Unit,1,1,1.0,,40.0,0.738,287.8,435000,454000.0,470000,500000
+SYD-061,Parramatta,11 Pemberton Street,2026-05,House,3,1,1.0,461.6,,0.908,280.7,1610000,1418000.0,1550000,1500000
+SYD-065,Parramatta,58 Crimea Street,2026-02,House,3,2,2.0,613.0,,1.135,119.0,1620000,1278000.0,1750000,1750000
+SYD-073,Mosman,G05/15-25 Myahgah Road,2026-08,Unit,2,2,2.0,,,3.459,93.0,4500000,1162000.0,1650000,1800000
+SYD-077,Mosman,14/669 Military Road,2026-08,Unit,2,1,1.0,,,3.574,30.3,1600000,1398000.0,1350000,1400000
+SYD-091,Mosman,10/116 Belmont Road,2026-06,Townhouse,3,2,2.0,192.0,159.0,2.708,34.3,2380000,1597000.0,2250000,2300000

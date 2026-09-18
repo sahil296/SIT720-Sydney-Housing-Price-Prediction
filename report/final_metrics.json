@@ -1,0 +1,27 @@
+{
+  "model_name": "Gradient Boosting Regressor",
+  "cv_primary_split": {
+    "CV MAE": 605462.6172475927,
+    "CV MAE SD": 412680.67350835283,
+    "CV RMSE": 1462184.0225943911,
+    "CV R\u00b2": 0.5133178895051584,
+    "CV MdAPE %": 16.731672411630964,
+    "Train MAE": 95736.75683187487,
+    "Train R\u00b2": 0.9923757417654506
+  },
+  "cv_repeated_splits": {
+    "mean CV MAE (6 splits)": 561711.236455425,
+    "SD across splits": 30389.04403871615,
+    "mean CV RMSE": 1340009.3180840956,
+    "mean CV R\u00b2": 0.6522306740035372,
+    "mean CV MdAPE %": 16.189138279139716,
+    "lowest MAE in # splits": 4.0
+  },
+  "final_holdout": {
+    "MAE": 528200.0,
+    "RMSE": 1098487.687687031,
+    "R2": 0.033958300517836104,
+    "MdAPE": 12.275232919254659
+  },
+  "mosman_house_oof_mdape": 41.65374358433691
+}
